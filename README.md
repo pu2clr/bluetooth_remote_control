@@ -88,11 +88,6 @@ This applications was build using the [Apache Cordova](https://cordova.apache.or
     $ cordova plugin add cordova-plugin-bluetooth-serial
 
 
-#### cordova-plugin-bluetooth-serial information
-
-* [Bluetooth Serial Plugin for PhoneGap](https://www.npmjs.com/package/cordova-plugin-bluetooth-serial)
-* [Bluetooth Serial Plugin for PhoneGap - github](https://github.com/don/BluetoothSerial)
-
 
 ### Build and Deploy
 
@@ -105,6 +100,18 @@ Compile and run the application
 ## Videos 
 
 - [Si4735 receiver prototype controlled by iPhone via Bluetooth](https://youtu.be/Yc9DHl7yQZ0)
+
+
+#### References
+
+* [Apache Cordova](https://cordova.apache.org/docs/en/latest/guide/overview/index.html)
+* [Bluetooth Serial Plugin for PhoneGap](https://www.npmjs.com/package/cordova-plugin-bluetooth-serial)
+* [Bluetooth Serial Plugin for PhoneGap - github](https://github.com/don/BluetoothSerial)
+* [UI Plugin For Seven-Segment Indicator - sevenSeg.js](https://www.jqueryscript.net/demo/jQuery-jQuery-UI-Plugin-For-Seven-Segment-Indicator-sevenSeg-js/)
+* [HM-10 Bluetooth 4 BLE Modules - Martyn Currey](http://www.martyncurrey.com/hm-10-bluetooth-4ble-modules/)
+* [BLE CENTRAL - HM-10 BLE Module](http://blog.blecentral.com/2015/05/05/hm-10-peripheral/)
+
+
 
 
 
