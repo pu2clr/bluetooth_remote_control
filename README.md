@@ -101,7 +101,6 @@ Compile and run the application
 
 - [Si4735 receiver prototype controlled by iPhone via Bluetooth](https://youtu.be/Yc9DHl7yQZ0)
 
-
 #### References
 
 * [Apache Cordova](https://cordova.apache.org/docs/en/latest/guide/overview/index.html)
