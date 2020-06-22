@@ -1,25 +1,18 @@
-# VFO Mobile Remote Control for iPhone and Android
-
-__This application is under construction...  Please wait...__ 
+# Mobile Application based on Cordova environment
 
 ## Introduction 
 
-The reduced length of the Oled display might limit some VFO functionalities.  The goal of this mobile application is improve the VFO control and visualization. 
-
+The goal of this mobile application is improve the VFO control and visualization. 
 
 
 ## Compile and deploy this mobile application
 
-Please copy the project to a local folder and follow the steps bellow
+Copy this folder to a local folder and follow the steps bellow
 
-You have to install [Android Studio](http://developer.android.com/sdk/index.html) on your computer to compile and deploy this application on your Android.
+For Android, is recommended to install [Android Studio](http://developer.android.com/sdk/index.html) on your computer to compile and deploy this application. 
 
-You have to install [Xcode](https://developer.apple.com/xcode/) on your Mac computer to compile and deploy this application on your iPhone or iPad.  
+For iOS (iPhone or iPad), is recommended to install [Xcode](https://developer.apple.com/xcode/) on your Mac computer to compile and deploy this application.
 
-
-### Pair your phone
-
-You have to pair your Android phone with the HM10 Bluetooth Shield.
 
 ## Cordova 
 
@@ -52,12 +45,15 @@ Compile and run the application
     $ cordova run --device ios
 
 
-## Useful commands    
+### Arduino sketch 
 
-cd Experiments/VFO_RADIO_CD2003GP/source/vfoMobileApplication/
-~/Library/Android/sdk/tools/emulator -list-avds
-~/Library/Android/sdk/tools/emulator -avd Nexus_6P_API_25 &
+The Arduino sketch have to use the [SoftwareSerial](https://github.com/PaulStoffregen/SoftwareSerial) library. You have to download and install this library on your Arduino enviroment.  
 
+Downlod the proper Arduino Sketch to your Arduino Board.
+
+### Pair your phone
+
+You have to pair your smartphone with the HM10 or HC-05 Bluetooth Shield. The HC-05 Bluetooth shield does not work on iOS devices. 
 
 
 ## References
