@@ -11,8 +11,10 @@ Contents
 
 1. [Mobile Application based on Cordova source code](https://github.com/pu2clr/bluetooth_remote_control/tree/master/mobile_application)
 2. [Sketch example source code](https://github.com/pu2clr/bluetooth_remote_control/tree/master/si4735_sketch)
-3. [Schematic](https://pu2clr.github.io/bluetooth_remote_control/#schematic)
-4. [Extra folder](https://github.com/pu2clr/bluetooth_remote_control/tree/master/extras)
+3. [Arduino Shield Bluetooth (HM10 - HMSOft TineSine)](https://pu2clr.github.io/bluetooth_remote_control/#arduino-shield-bluetooth-hm10---hmsoft-tinesine)
+4. [Schematic](https://pu2clr.github.io/bluetooth_remote_control/#schematic)
+5. [Extra folder](https://github.com/pu2clr/bluetooth_remote_control/tree/master/extras)
+6. [Compiling de Deploying the Mobile Application](https://pu2clr.github.io/bluetooth_remote_control/#compile-and-deploy-this-mobile-application-example)
 
 
 The video below shows you this example working. 
@@ -67,11 +69,17 @@ The photo below shows the Arduino, SI4735 and the Bluetooth devices connections.
 
 ## SCHEMATIC
 
+The schematic below shows a very simple Arduino, SI4735 and Bluetooth shield setup. 
+
 ![HM10 - Schematic](extras/schematic_basic.png)
 
-## Compile and deploy this mobile application example
 
-Copy this example folder to a local folder and follow the steps bellow
+__You can use the HC-05 or HC-07 Bluetooth devices instead HM10 on Android based mobile devices. However, these devices will not work on iOS devices__.   
+
+
+## Compiling de Deploying the Mobile Application
+
+Copy this example folder to a local folder and follow the steps bellow.
 
 For Android, is recommended to install [Android Studio](http://developer.android.com/sdk/index.html) on your computer to compile and deploy this application. 
 
@@ -80,8 +88,7 @@ For iOS (iPhone or iPad), is recommended to install [Xcode](https://developer.ap
 
 ### Cordova 
 
-This applications was build using the [Apache Cordova](https://cordova.apache.org/docs/en/latest/guide/overview/index.html). 
-[Apache Cordova](https://cordova.apache.org/docs/en/latest/guide/overview/index.html). Click [here](https://cordova.apache.org/docs/en/latest/guide/overview/index.html) to see more about Apache Cordova.
+This applications was build using the [Apache Cordova](https://cordova.apache.org/docs/en/latest/guide/overview/index.html). Click [here](https://cordova.apache.org/docs/en/latest/guide/overview/index.html) to see more about Apache Cordova.
 
 ### Install Cordova
 
