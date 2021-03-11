@@ -7,6 +7,12 @@ It is a simple example that shows a way to use your smartphone as a remote contr
 The development environment used by this project is the [Apache Cordova](https://cordova.apache.org/docs/en/latest/guide/overview/index.html). Cordova is a open-source mobile development framework that allows you to develop cross-platform applications. That means you can code once and deploy the application in many system, including iOS and Android. 
 Cordova provides an easy way to develop for iOS and Android.
 
+
+__This project can be freely distributed using the MIT Free Software model__. 
+
+[Copyright (c) 2021 Ricardo Lima Caratti](https://pu2clr.github.io/bluetooth_remote_control/#mit-license).
+
+
 ## Contents
 
 1. [Mobile Application based on Cordova source code](https://github.com/pu2clr/bluetooth_remote_control/tree/master/mobile_application)
@@ -16,6 +22,19 @@ Cordova provides an easy way to develop for iOS and Android.
 5. [Extra folder](https://github.com/pu2clr/bluetooth_remote_control/tree/master/extras)
 6. [Compiling de Deploying the Mobile Application](https://pu2clr.github.io/bluetooth_remote_control/#compile-and-deploy-this-mobile-application-example)
 
+
+## MIT License 
+
+Copyright (c) 2019 Ricardo Lima Caratti
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE ARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+## Demo video 
 
 The video below shows you this example working. 
 
