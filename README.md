@@ -15,7 +15,9 @@ Contents
 
 The video below shows you this example working. 
 
-[Si4735 receiver prototype controlled by iPhone via Bluetooth](https://youtu.be/Yc9DHl7yQZ0)
+{% include video01.html %}
+
+[Watch on youtube](https://youtu.be/Yc9DHl7yQZ0)
 
 
 ### Mobile device
