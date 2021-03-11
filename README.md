@@ -88,10 +88,18 @@ The photos below show the Arduino, SI4735 and the Bluetooth devices connections.
 
 ### Homebrew Si4735 shield
 
-![HM10 - Mobile Application Screenshot](https://pu2clr.github.io/SI4735/extras/images/SI4735_mini_protoboard_01.png)
+The photo below shows a homebrew version of the SI4735-D60 citcuit with all basic components connected on a SSOP24 board adapter. You need 3 wires to connect the Arduino to the Arduino Board (SDIO, SCLK and RESET). You also can use the Arduino board to power the homebrew SI4745 shield. 
+
+![Homebrew SI4735 Arduino shiled](https://pu2clr.github.io/SI4735/extras/images/SI4735_mini_protoboard_01.png)
+
+
+[Click here for more details about this shield and SI4735 Arduino library](https://pu2clr.github.io/SI4735/) 
 
 
 ### SI4735 homebrew shield and Arduino Pro Mini/3.3V/8MHz
+
+The tables below show the wire and pin  connections between the Arduino Board and SI4735 and Bluetooth shields.
+
 
 | Si4735 pin      |  Arduino Pin  |
 | ----------------| ------------  |
