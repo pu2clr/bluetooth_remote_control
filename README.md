@@ -61,6 +61,9 @@ The photo below shows the Arduino, SI4735 and the Bluetooth devices connections.
 ![HM10 - Mobile Application Screenshot](https://github.com/pu2clr/SI4735/blob/master/extras/images/iPHONE_REMOTE_CONTROL_01.png)
 
 
+## SCHEMATIC
+
+![HM10 - Schematic](extras/schematic_basic.png)
 
 ## Compile and deploy this mobile application example
 
