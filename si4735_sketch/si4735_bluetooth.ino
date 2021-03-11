@@ -36,7 +36,7 @@
   PU2CLR Si47XX API documentation: https://pu2clr.github.io/SI4735/extras/apidoc/html/
   Schematic: https://github.com/pu2clr/bluetooth_remote_control/blob/master/extras/schematic_basic.png
 
-   By Ricardo Lima Caratti, Nov 2019.
+  By Ricardo Lima Caratti, Nov 2019.
 */
 
 #include <SI4735.h>
