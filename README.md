@@ -83,6 +83,22 @@ The Arduino sketch of this example uses the [SoftwareSerial](https://github.com/
 
 The photo below shows the Arduino, SI4735 and the Bluetooth devices connections. 
 
+### SI4735 homebrew shield and Arduino Pro Mini/3.3V/8MHz
+
+| Si4735 pin      |  Arduino Pin  |
+| ----------------| ------------  |
+| RESET (pin 15)  |     12        |
+| SDIO (pin 18)   |     A4        |
+| SCLK (pin 17)   |     A5        |
+
+### Bluetooth shield and Arduino Pro Mini/3.3V/8MHz
+    
+| BLE-HM10        |  Arduino Pin  |
+| ----------------| ------------  |
+| TXD             |     10        |
+| RXD             |     11        |
+
+
 ![HM10 - Mobile Application Screenshot](https://pu2clr.github.io/SI4735/extras/images/iPHONE_REMOTE_CONTROL_01.png)
 
 
