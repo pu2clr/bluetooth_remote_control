@@ -86,6 +86,10 @@ The photo below shows the Arduino, SI4735 and the Bluetooth devices connections.
 ![HM10 - Mobile Application Screenshot](https://pu2clr.github.io/SI4735/extras/images/iPHONE_REMOTE_CONTROL_01.png)
 
 
+### Homebrew Si4735 and adapter setup
+![HM10 - Mobile Application Screenshot](https://pu2clr.github.io/SI4735/extras/images/SI4735_mini_protoboard_01.png)
+
+
 ## SCHEMATIC
 
 The schematic below shows a very simple Arduino, SI4735 and Bluetooth shield setup. 
