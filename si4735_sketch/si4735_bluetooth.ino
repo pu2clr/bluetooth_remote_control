@@ -32,11 +32,9 @@
     | TXD             |     10        |
     | RXD             |     11        |
 
-
-
   Prototype documentation : https://pu2clr.github.io/SI4735/
   PU2CLR Si47XX API documentation: https://pu2clr.github.io/SI4735/extras/apidoc/html/
-  Schematic: https://github.com/pu2clr/SI4735/blob/master/extras/images/basic_schematic.png
+  Schematic: https://github.com/pu2clr/bluetooth_remote_control/blob/master/extras/schematic_basic.png
 
    By Ricardo Lima Caratti, Nov 2019.
 */
