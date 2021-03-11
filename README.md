@@ -7,7 +7,7 @@ It is a simple example that shows a way to use your smartphone as a remote contr
 The development environment used by this project is the [Apache Cordova](https://cordova.apache.org/docs/en/latest/guide/overview/index.html). Cordova is a open-source mobile development framework that allows you to develop cross-platform applications. That means you can code once and deploy the application in many system, including iOS and Android. 
 Cordova provides an easy way to develop for iOS and Android.
 
-Contents
+## Contents
 
 1. [Mobile Application based on Cordova source code](https://github.com/pu2clr/bluetooth_remote_control/tree/master/mobile_application)
 2. [Sketch example source code](https://github.com/pu2clr/bluetooth_remote_control/tree/master/si4735_sketch)
