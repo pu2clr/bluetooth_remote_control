@@ -10,7 +10,7 @@ Cordova provides an easy way to develop for iOS and Android.
 
 __This project can be freely distributed using the MIT Free Software model__. 
 
-[Copyright (c) 2021 Ricardo Lima Caratti](https://pu2clr.github.io/bluetooth_remote_control/#mit-license).
+[Copyright (c) 2020 Ricardo Lima Caratti](https://pu2clr.github.io/bluetooth_remote_control/#mit-license).
 
 
 ## Contents
@@ -25,7 +25,7 @@ __This project can be freely distributed using the MIT Free Software model__.
 
 ## MIT License 
 
-Copyright (c) 2019 Ricardo Lima Caratti
+Copyright (c) 2020 Ricardo Lima Caratti
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -36,7 +36,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Demo video 
 
-The video below shows you this example working. 
+The video below shows you this project working. 
 
 {% include video01.html %}
 
@@ -83,7 +83,7 @@ The Arduino sketch of this example uses the [SoftwareSerial](https://github.com/
 
 The photo below shows the Arduino, SI4735 and the Bluetooth devices connections. 
 
-![HM10 - Mobile Application Screenshot](https://github.com/pu2clr/SI4735/blob/master/extras/images/iPHONE_REMOTE_CONTROL_01.png)
+![HM10 - Mobile Application Screenshot](https://pu2clr.github.io/SI4735/extras/images/iPHONE_REMOTE_CONTROL_01.png)
 
 
 ## SCHEMATIC
