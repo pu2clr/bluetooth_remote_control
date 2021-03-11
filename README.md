@@ -11,6 +11,8 @@ Contents
 
 1. [Mobile Application based on Cordova environment](https://github.com/pu2clr/bluetooth_remote_control/tree/master/mobile_application)
 2. [PU2CLR SI4735 Arduino Library sketch example](https://github.com/pu2clr/bluetooth_remote_control/tree/master/si4735_sketch)
+3. [Schematic](https://pu2clr.github.io/bluetooth_remote_control/#schematic)
+4. [Go to github layout](https://github.com/pu2clr/bluetooth_remote_control/)
 
 
 The video below shows you this example working. 
