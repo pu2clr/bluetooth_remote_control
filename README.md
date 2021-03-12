@@ -51,7 +51,7 @@ The screenshot below shows the mobile application interface.
 
 <BR> 
 
-![Mobile Application Screenshot](https://pu2clr.github.io/SI4735/extras/images/mobile_0001.png)
+![Mobile Application Screenshot](extras/images/mobile_0001.png)
 
 <BR> 
 
