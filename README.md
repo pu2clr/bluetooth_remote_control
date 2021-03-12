@@ -63,7 +63,7 @@ The Bluetooth 4.0 used here is the HM10 (TinySine). It is very similar to the fa
 
 |  Ponto 1 | Photo 2 | 
 | -------- | ------- |
-| ![HM10 - HMSOft TineSine 01](https://pu2clr.github.io/SI4735/extras/images/BT01BLE.png) | ![HM10 - HMSOft TineSine 02](https://pu2clr.github.io/SI4735/extras/images/BT02BLE.png) |
+| ![HM10 - HMSOft TineSine 01](extras/images/BT01BLE.png) | ![HM10 - HMSOft TineSine 02](extras/images/BT02BLE.png) |
 
 <BR>
 
