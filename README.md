@@ -139,6 +139,9 @@ For iOS (iPhone or iPad), is recommended to install [Xcode](https://developer.ap
 
 This applications was build using the [Apache Cordova](https://cordova.apache.org/docs/en/latest/guide/overview/index.html). Click [here](https://cordova.apache.org/docs/en/latest/guide/overview/index.html) to see more about Apache Cordova.
 
+
+Before star installing Cordova you have to install [npm - a software Package Manager and Installer](https://nodejs.dev/learn/how-to-install-nodejs) (Node.js Package Manager). 
+
 ### Install Cordova
 
     $ npm install cordova -g
